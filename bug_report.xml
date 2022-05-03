@@ -1,1 +1,10 @@
-
+<?xml version="1.0"?>
+<bug>
+<title>Заголовок ошибки</title>
+<summary>Описание ошибки</summary>
+<precondition>Начальные условия</precondition>
+<steps>Шаги воспроизведения</steps>
+<expresult>Ожидаемый результат</expresult>
+<actresult>Фактический результат</actresult>
+<attachments>Вложения</attachments>
+</bug>
